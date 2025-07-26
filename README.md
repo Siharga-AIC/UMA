@@ -1,3 +1,2 @@
 # UMA
-Umrah Mandiri ADEM (UMA)
-Aman, Damai, Ekonimis, Mudah
+Umrah Mandiri ADEM (Aman, Damai, Ekonimis, Mudah)
